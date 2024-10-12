@@ -88,6 +88,9 @@ Inicia la aplicación de Streamlit ejecutando el siguiente comando en el directo
 2. *Hacer Preguntas:* Escribe tu pregunta sobre el manual del MG3 en el campo de texto proporcionado.
 3. *Enviar la Pregunta:* Haz clic en el botón ```Enviar```. La aplicación procesará tu pregunta y generará una respuesta basada en el contenido del manual.
 
+## Imagenes
+![Chat](Ejecucion_chat_with_docs.png "Chat")
+
 ## Estructura del Proyecto
 
 - *chat_with_docs.py:* Script principal que ejecuta la aplicación de Streamlit.
